@@ -1,6 +1,3 @@
-# Open NX 
-
-
 
 This repository installs a package with the shops below. Adding this one should be enough and recommended for your game library.
 
